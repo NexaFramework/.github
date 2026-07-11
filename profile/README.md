@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" alt="Nexa Framework" width="420">
 </p>
-
 <h1 align="center">Nexa Framework</h1>
 
 <p align="center">
