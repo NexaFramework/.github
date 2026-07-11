@@ -63,8 +63,21 @@ Documentation and installation guide will be available soon.
 
 ---
 
-## Community
-💬 Discord *https://discord.gg/DTSg45Atc*
+## 🌐 Community
+
+<p align="center">
+  <a href="https://discord.gg/DTSg45Atc">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/NexaFramework">
+    <img src="https://img.shields.io/badge/GitHub-NexaFramework-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://nexaframework.dev">
+    <img src="https://img.shields.io/badge/Website-nexaframework.dev-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
