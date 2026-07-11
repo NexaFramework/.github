@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NexaFramework/.github/refs/heads/main/profile/assets/logo.png?token=GHSAT0AAAAAAECNSPRYVDS5IZUBA2YH4IFI2SSZIWQ" alt="Nexa Framework">
+  <img src="assets/logo.png" alt="Nexa Framework" width="420">
 </p>
 
 <h1 align="center">Nexa Framework</h1>
