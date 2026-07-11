@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Nexa Framework" width="420">
+  <img src="assets/logo.png" alt="Nexa Framework" width="800">
 </p>
 <h1 align="center">Nexa Framework</h1>
 
