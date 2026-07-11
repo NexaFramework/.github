@@ -70,7 +70,7 @@ Documentation and installation guide will be available soon.
 
 📖 Documentation *(Coming Soon)*
 
-💬 Discord *(Coming Soon)*
+💬 Discord *https://discord.gg/DTSg45Atc*
 
 ---
 
