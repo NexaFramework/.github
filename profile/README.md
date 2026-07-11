@@ -64,11 +64,6 @@ Documentation and installation guide will be available soon.
 ---
 
 ## Community
-
-/*🌐 Website *(Coming Soon)**/
-
-//📖 Documentation *(Coming Soon)*
-
 💬 Discord *https://discord.gg/DTSg45Atc*
 
 ---
